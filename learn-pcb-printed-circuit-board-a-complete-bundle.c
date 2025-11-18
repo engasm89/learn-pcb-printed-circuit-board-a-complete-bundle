@@ -6,6 +6,14 @@
  * Notes: Auto-generated metadata block (2025-11-18)
  */
 
+/*
+ * Course: Learn Pcb Printed Circuit Board A Complete Bundle
+ * Platform: Embedded Systems
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include I/O for PCB bundle logs
 
 // Main routine: orchestrates the learn pcb printed circuit board a complete bundle scenario
